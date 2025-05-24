@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106038024434",
+    "project_id": "barya-app-6cfad",
+    "storage_bucket": "barya-app-6cfad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106038024434:android:0e0d562a4966161dd1186b",
+        "android_client_info": {
+          "package_name": "com.example.appbarya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTYa4AudnVT7B_vWUKe95ibO4sEF53dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

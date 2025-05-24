@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>106038024434-ha1li13q0qe65k697l4go0lo1h3tlm36.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106038024434-ha1li13q0qe65k697l4go0lo1h3tlm36</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7E-Zb1kHJzgdrVn_hkIQGsx53K0cvZ-E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106038024434</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appbarya</string>
+	<key>PROJECT_ID</key>
+	<string>barya-app-6cfad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barya-app-6cfad.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106038024434:ios:116940b4143d199ad1186b</string>
+</dict>
+</plist>
